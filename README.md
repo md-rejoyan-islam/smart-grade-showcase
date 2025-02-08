@@ -19,7 +19,7 @@ SmartGrade Showcase is an interactive student ranking dashboard that displays st
 
 ## LINKS
 
-- [Live Site](https://smartgrade-showcase.netlify.app/)
+- [Live Site](https://smartgrade-showcase-website.netlify.app)
 - [GitHub Repository](https://github.com/md-rejoyan-islam/smart-grade-showcase)
 
 ## Contributing
